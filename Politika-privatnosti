@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <title>Politika privatnosti</title>
+</head>
+<body>
+    <h1>Politika privatnosti</h1>
+    <p>
+        Ova aplikacija služi za izračunavanje vjerovatnoće pogotka brojeva loto, ruleta ili rezultata utakmice.
+        <br><br>
+        <strong>Aplikacija ne prikuplja, ne obrađuje, niti deli bilo kakve podatke o korisnicima.</strong>
+    </p>
+    <h2>Kontakt</h2>
+    <p>
+        Za dodatne informacije možete kontaktirati autora aplikacije na: <a href="mailto:jelenkot@gmail.com">jelenkot@gmail.com</a>
+    </p>
+</body>
+</html>
